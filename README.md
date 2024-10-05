@@ -10,9 +10,6 @@
 - [Technologies Used](#technologies-used)
 - [Data](#data)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
