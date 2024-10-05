@@ -33,6 +33,8 @@
 
 The dataset used for this project includes customer information, behavioral patterns, and churn status. You can download the dataset from [Kaggle - Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 
+!!! The dataset belongs to the author. The data is used for demonstration purposes only. Not for commercial use.
+
 ## Installation
 
 To set up the project locally, follow these steps:
